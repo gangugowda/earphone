@@ -7,7 +7,6 @@ import {
   Train,
   ShieldAlert,
   ShieldCheck,
-  Brain,
 } from "lucide-react";
 
 function History() {
